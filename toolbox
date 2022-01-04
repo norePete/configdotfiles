@@ -1,0 +1,56 @@
+---------express------------------
+express generator to create ready made nodejs/express app for serving multiple js files
+https://expressjs.com/en/starter/generator.html
+
+run the following command inside a directory that
+contains an index.html file
+"python -m http.server"
+
+
+double click on commandline 
+xdg-open 
+
+reaver-wps-fork-t6x-git for cracking wps wifi networks
+
+Okular pdf reader
+
+guvcview starts video interface
+
+dragon media player
+
+"shutter --select" to take screenshots
+
+start discord disconnected from terminal
+"nohup discord </dev/null &>/dev/null &"
+
+remove number from a vim instance
+":set nonu nornu"
+
+
+AI style transfer: https://arxiv.org/pdf/1705.01088.pdf
+
+code explanation generator: Denigma.app
+
+terminal ascii aqarium
+"asciiquarium"
+
+convert jpg to ascii art
+"jp2a image.jpg"
+
+terminal web browser 
+"lynx"
+
+spreadsheets in the terminal 
+"visidata"
+
+image/gif converter to ascii art suitable for display in terminal
+"chafa"
+
+text based process viewer
+"htop"
+
+websocket client for the terminal 
+"websocat"
+
+pipe json from curl or websocat to jq in order to parse it
+"jq"
